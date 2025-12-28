@@ -4,6 +4,10 @@
 ![Pygame](https://img.shields.io/badge/pygame-2.0+-green.svg)
 ![NumPy](https://img.shields.io/badge/numpy-1.20+-orange.svg)
 
+
+https://github.com/user-attachments/assets/377e8d9e-8a85-45d5-9997-785b43573542
+
+
 **Progetto di Machine Learning:** Addestramento di un agente Snake usando **Algoritmi Genetici** (Genetic Algorithm - GA) per imparare a giocare autonomamente.
 
 ---
